@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @damianoncloud
 - 👀 I’m interested in web development and technologies
 - 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on Front-end projects
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects
 
 <!---
 damianoncloud/damianoncloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
